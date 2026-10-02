@@ -1,0 +1,11 @@
+Django==5.1.4                       # веб-фреймворк
+psycopg2-binary==2.9.10             # драйвер PostgreSQL
+python-dotenv==1.0.1                # чтение .env
+djangorestframework==3.14.0         # REST API
+djangorestframework-simplejwt==5.3.1  # JWT-токены
+django-cors-headers==4.3.1          # CORS для Streamlit/десктопа
+django-filter==23.5                 # фильтрация в API
+streamlit==1.30.0                   # дашборд
+pandas==2.2.0                       # таблицы для дашборда
+plotly==5.18.0                      # графики
+requests==2.31.0                    # HTTP-клиент для дашборда
